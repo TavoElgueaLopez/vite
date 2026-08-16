@@ -83,8 +83,8 @@
   "dependencies": {
     "esbuild": "^0.25.0",
     "fdir": "^6.5.0",
-    "picomatch": "^4.0.3",
-    "postcss": "^8.5.6",
+    "picomatch": "^4.0.5",
+    "postcss": "^8.5.23",
     "rollup": "^4.43.0",
     "tinyglobby": "^0.2.15"
   },
@@ -127,7 +127,7 @@
     "magic-string": "^0.30.19",
     "mlly": "^1.8.0",
     "mrmime": "^2.0.1",
-    "nanoid": "^5.1.5",
+    "nanoid": "^5.1.16",
     "open": "^10.2.0",
     "parse5": "^8.0.0",
     "pathe": "^2.0.3",
@@ -149,7 +149,7 @@
     "tsconfck": "^3.1.6",
     "types": "link:./types",
     "ufo": "^1.6.1",
-    "ws": "^8.18.3"
+    "ws": "^8.21.0"
   },
   "peerDependencies": {
     "@types/node": "^20.19.0 || >=22.12.0",
